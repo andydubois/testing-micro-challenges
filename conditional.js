@@ -13,3 +13,5 @@ console.log(biggerNumber(3,2));
 console.log(biggerNumber(2, 7));
 //example 2
 console.log(biggerNumber(7,7));
+
+
